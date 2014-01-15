@@ -3,9 +3,9 @@
 This is my first Laravel package for my friend's Final Year Project,hope you like it.
 
 ## Requirement
-Laravel 4
-Jade executable (install from sudo npm install -g jade)
-*It may not work on windows machine(you can try cygwin and the like)
+- Laravel 4
+- Jade executable (install from sudo npm install -g jade)
+- *It may not work on windows machine(you can try cygwin and the like)
 
 ## Installation
 In your composer.json add "man/jade": "dev-master" to require
