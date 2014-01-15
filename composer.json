@@ -1,6 +1,6 @@
 {
     "name": "man/jade",
-    "description": "",
+    "description": "Laravel Jade templating Engine from native Jade binaries for Mac OSX/Linux/Unix",
     "authors": [
         {
             "name": "sliversniper",
